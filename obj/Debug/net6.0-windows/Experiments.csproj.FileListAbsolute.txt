@@ -1,0 +1,96 @@
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.exe
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.dll.config
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.deps.json
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.runtimeconfig.json
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\Experiments.pdb
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\de\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\es\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\fr\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\hu\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\it\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\ja\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\pt\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\ru\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\sk\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\sv\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\tr\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\zh-CN\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\zh-TW\ZedGraph.resources.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IlyaI\Downloads\Experiments\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.AssemblyReference.cache
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\ExperimentWindow.baml
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\ExperimentWindow.g.cs
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments_MarkupCompile.cache
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.g.resources
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.AssemblyInfoInputs.cache
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.AssemblyInfo.cs
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.CoreCompileInputs.cache
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.CopyComplete
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.dll
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\refint\Experiments.dll
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.pdb
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\Experiments.genruntimeconfig.cache
+C:\Users\IlyaI\Downloads\Experiments\obj\Debug\net6.0-windows\ref\Experiments.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.exe
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.dll.config
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.deps.json
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.runtimeconfig.json
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\Experiments.pdb
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\de\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\es\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\fr\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\hu\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\it\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\ja\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\pt\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\ru\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\sk\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\sv\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\tr\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\zh-cn\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\zh-tw\ZedGraph.resources.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.AssemblyReference.cache
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\ExperimentWindow.baml
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\ExperimentWindow.g.cs
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments_MarkupCompile.cache
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.g.resources
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.AssemblyInfoInputs.cache
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.AssemblyInfo.cs
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.CoreCompileInputs.cache
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.csproj.CopyComplete
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\refint\Experiments.dll
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.pdb
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\Experiments.genruntimeconfig.cache
+C:\Users\Пажилая бебра\Desktop\Experiments\obj\Debug\net6.0-windows\ref\Experiments.dll
