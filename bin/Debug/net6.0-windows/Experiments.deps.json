@@ -205,10 +205,10 @@
             "locale": "tr"
           },
           "lib/net35-Client/zh-cn/ZedGraph.resources.dll": {
-            "locale": "zh-cn"
+            "locale": "zh-CN"
           },
           "lib/net35-Client/zh-tw/ZedGraph.resources.dll": {
-            "locale": "zh-tw"
+            "locale": "zh-TW"
           }
         }
       }

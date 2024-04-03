@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пажилая бебра\\Desktop\\Experiments\\Experiments.csproj": {}
+    "C:\\Users\\c4gri\\Desktop\\дипломный проект\\Experiment\\Experiments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пажилая бебра\\Desktop\\Experiments\\Experiments.csproj": {
+    "C:\\Users\\c4gri\\Desktop\\дипломный проект\\Experiment\\Experiments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пажилая бебра\\Desktop\\Experiments\\Experiments.csproj",
+        "projectUniqueName": "C:\\Users\\c4gri\\Desktop\\дипломный проект\\Experiment\\Experiments.csproj",
         "projectName": "Experiments",
-        "projectPath": "C:\\Users\\Пажилая бебра\\Desktop\\Experiments\\Experiments.csproj",
-        "packagesPath": "C:\\Users\\Пажилая бебра\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пажилая бебра\\Desktop\\Experiments\\obj\\",
+        "projectPath": "C:\\Users\\c4gri\\Desktop\\дипломный проект\\Experiment\\Experiments.csproj",
+        "packagesPath": "C:\\Users\\c4gri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c4gri\\Desktop\\дипломный проект\\Experiment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Пажилая бебра\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c4gri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,10 +72,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -79,7 +103,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

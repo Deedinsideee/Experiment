@@ -78,6 +78,9 @@ namespace DIPLOM
 
         public static void ImportEx2(string s, ExperimentsContext context)
         {
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+            Encoding encoding1252 = Encoding.GetEncoding(1252);
+
 
             FileStream stream = File.Open(s, FileMode.Open, FileAccess.Read);
             IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream);
